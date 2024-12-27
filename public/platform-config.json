@@ -1,6 +1,6 @@
 {
-  "Version": "5.9.0",
-  "Title": "PureAdmin",
+  "Version": "0.1.0",
+  "Title": "IoT-Hub-Node",
   "FixedHeader": true,
   "HiddenSideBar": false,
   "MultiTagsCache": false,
